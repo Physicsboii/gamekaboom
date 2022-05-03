@@ -1,0 +1,6 @@
+body {
+  overscroll-behavior: none;
+}
+#mycanvas {
+        overflow: none;
+}
